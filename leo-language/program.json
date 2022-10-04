@@ -1,0 +1,10 @@
+{
+    "program": "leotest.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp2DxEm45mbdbeDgDmyM9cB1PmtK2DsGcYBgKYDytVfraU",
+        "address": "aleo1af52s8l7v8q6zwrs4wvlqj6rmt0fca7lyk55us2dl7rsqar9eypqeu8am8"
+    },
+    "license": "MIT"
+}
