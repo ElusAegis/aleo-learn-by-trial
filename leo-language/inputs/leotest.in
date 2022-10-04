@@ -1,0 +1,5 @@
+// The program input for leotest/src/main.leo
+[main] // indication that the inputs are for main function, we could have more of these
+// We can only specify them for functions which are program entry points, such as annotated with @program
+public a: u32 = 1u32;
+b: u32 = 2u32; // If visibility is omitted, it is considered to be privatexd
